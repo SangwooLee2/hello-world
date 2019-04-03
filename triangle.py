@@ -11,7 +11,7 @@ painter = turtle.Turtle()
 
 for _ in range(10):
     painter.forward(150)    
-    painter.left(19o) # turns 90 degress
+    painter.left(190) # turns 90 degress
     
 
 turtle.done()   # stop execution
