@@ -9,9 +9,9 @@ Created on Wed Apr  3 10:09:56 2019
 import turtle# a module
 painter = turtle.Turtle()
 
-for _ in range(3):
-    painter.forward(100)    
-    painter.left(120) # turns 90 degress
+for _ in range(10):
+    painter.forward(150)    
+    painter.left(19o) # turns 90 degress
     
 
 turtle.done()   # stop execution
